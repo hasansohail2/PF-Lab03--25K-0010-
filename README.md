@@ -2,7 +2,22 @@
 This repository contains my first programming fundamentals lab task.
 
 # About Me
-Hi! My name is Hasan Sohail, and I’m a student of Programming Fundamentals.
+# 👋 About Me
+
+Hi! I’m **_Hasan Sohail_**, a passionate student of Artificial Intelligemnce who loves solving logical problems.
+
+## 💻 My Programming Interests
+
+### Languages I’m Learning
+1. C
+
+### My Hobbies
+- Playing chess
+- Watching tech tutorials
+- Reading about AI and new technologies
+
+I believe **_practice makes perfect_** when it comes to programming!
+
 
 ## My Programming Interests
 - I enjoy learning C language and exploring how computers work at a low level.
